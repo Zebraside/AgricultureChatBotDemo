@@ -1,0 +1,21 @@
+Detecting copper deficiency in a farming field involves a combination of soil and plant tissue tests, understanding the specific symptoms in crops, and being aware of the conditions that predispose soils to this deficiency. Here's a detailed guide based on the findings:
+
+1. Soil and Plant Tissue Tests
+Soil Testing: Use soil tests specifically for organic soils to gauge copper levels. The DTPA extraction method is a common procedure for determining the copper status of soils. It's particularly recommended for soils with high organic matter content and sandy soils which are more prone to copper deficiency​​.
+Plant Tissue Testing: Alongside soil tests, plant tissue analysis can confirm a copper deficiency. This is crucial before deciding on copper supplementation in your fertilizer program​​.
+2. Symptoms of Copper Deficiency in Crops
+General Appearance: Look for a general light green to yellow color in crops, especially in young plant tissues since copper is relatively immobile within plants​​.
+Specific Crop Symptoms:
+Small Grains: Twisted leaf tips that die back, halted growth at early stages, and in severe cases, death of the plant before grain production​​.
+Corn: New leaves may emerge from the whorl with a bluish-green tint, spiraling, and older leaves might show necrosis on tips and edges​​.
+Vegetables: Young leaves turning bluish-green before yellowing, wilting of the upper plant part, and stunted growth leading to failure in flowering​​.
+3. Conditions Leading to Copper Deficiency
+Soil Composition: Peaty soils and those with high concentrations of organic matter are more likely to be deficient. Sandy-textured soils also fall into this category​​.
+Soil pH: Soils with a pH of 7.5 or higher, containing significant amounts of oxides and carbonates, are likely to have low available copper levels​​.
+4. Management and Correction
+Fertilizer Use: Copper sulfate is the preferred source of copper fertilizer due to its cost-effectiveness compared to chelated sources. It can be applied to the soil before seeding, either broadcast or banded with other fertilizers. Foliar application is also an effective method for correcting copper deficiency, especially in small grains and vegetables​​​​.
+Precaution Against Toxicity: It's essential to balance copper applications as there's a narrow margin between deficiency and toxicity. Toxicity can hinder seed germination, root development, and overall plant vigor​​.
+For detailed guidelines on preparing copper-based solutions like Bordeaux and Burgundy mixtures for controlling fungus diseases and correcting copper deficiency, ensure proper application techniques and concentrations to avoid toxicity​​.
+
+By closely monitoring soil and plant health and applying the right corrective measures, you can manage copper levels efficiently to ensure the optimal growth and yield of your crops.
+It specifically mentions that soil copper levels for mineral soil diagnosis, using DTPA extractable method at a depth of 0-6 inches, are categorized as follows: less than 0.4 ppm is considered deficient, 0.4-0.6 ppm is marginal, 0.6-1.0 ppm may be deficient in some instances, and greater than 1.0 ppm is usually adequate. It highlights the variability in copper levels across fields, suggesting that even with an average level of 1 ppm, up to 50% of the land could be copper deficient, especially when growing wheat or barley.
